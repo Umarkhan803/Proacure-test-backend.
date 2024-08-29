@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Smartphone",
+    "price": 299.99,
+    "brand": "TechCorp",
+    "rating": 4.5,
+    "details": "A high-end smartphone with 128GB storage, 6GB RAM, and a 12MP camera."
+  },
+  {
+    "id": 2,
+    "name": "Laptop",
+    "price": 999.99,
+    "brand": "CompTech",
+    "rating": 4.8,
+    "details": "A powerful laptop with 16GB RAM, 512GB SSD, and an Intel i7 processor."
+  },
+  {
+    "id": 3,
+    "name": "Bluetooth Speaker",
+    "price": 49.99,
+    "brand": "SoundWave",
+    "rating": 4.3,
+    "details": "Portable Bluetooth speaker with 10-hour battery life and waterproof design."
+  },
+  {
+    "id": 4,
+    "name": "Smartwatch",
+    "price": 199.99,
+    "brand": "WristTech",
+    "rating": 4.7,
+    "details": "Fitness-focused smartwatch with heart rate monitoring and GPS tracking."
+  },
+  {
+    "id": 5,
+    "name": "Gaming Console",
+    "price": 499.99,
+    "brand": "GameBox",
+    "rating": 4.9,
+    "details": "Next-gen gaming console with 4K gaming and 1TB storage."
+  },
+  {
+    "id": 6,
+    "name": "Wireless Earbuds",
+    "price": 79.99,
+    "brand": "SoundPulse",
+    "rating": 4.4,
+    "details": "True wireless earbuds with noise cancellation and 20-hour battery life."
+  },
+  {
+    "id": 7,
+    "name": "Tablet",
+    "price": 329.99,
+    "brand": "TabWorld",
+    "rating": 4.6,
+    "details": "10-inch tablet with 64GB storage and stylus support."
+  },
+  {
+    "id": 8,
+    "name": "4K TV",
+    "price": 599.99,
+    "brand": "ViewMax",
+    "rating": 4.8,
+    "details": "55-inch 4K UHD Smart TV with HDR and streaming apps built-in."
+  },
+  {
+    "id": 9,
+    "name": "Digital Camera",
+    "price": 449.99,
+    "brand": "PhotoPro",
+    "rating": 4.5,
+    "details": "Mirrorless digital camera with 24MP sensor and 4K video recording."
+  },
+  {
+    "id": 10,
+    "name": "External Hard Drive",
+    "price": 89.99,
+    "brand": "DataSafe",
+    "rating": 4.6,
+    "details": "2TB external hard drive with USB 3.0 connectivity."
+  },
+  {
+    "id": 11,
+    "name": "Wireless Keyboard",
+    "price": 59.99,
+    "brand": "TypePro",
+    "rating": 4.3,
+    "details": "Ergonomic wireless keyboard with backlit keys and long battery life."
+  },
+  {
+    "id": 12,
+    "name": "Action Camera",
+    "price": 249.99,
+    "brand": "AdventureCam",
+    "rating": 4.7,
+    "details": "Waterproof action camera with 4K recording and image stabilization."
+  },
+  {
+    "id": 13,
+    "name": "Electric Toothbrush",
+    "price": 79.99,
+    "brand": "SmileCare",
+    "rating": 4.4,
+    "details": "Rechargeable electric toothbrush with multiple brushing modes and a pressure sensor."
+  },
+  {
+    "id": 14,
+    "name": "Portable Charger",
+    "price": 29.99,
+    "brand": "PowerUp",
+    "rating": 4.5,
+    "details": "10,000mAh portable charger with fast charging capability and dual USB ports."
+  },
+  {
+    "id": 15,
+    "name": "Coffee Maker",
+    "price": 129.99,
+    "brand": "BrewMaster",
+    "rating": 4.6,
+    "details": "Programmable coffee maker with 12-cup capacity and built-in grinder."
+  },
+  {
+    "id": 16,
+    "name": "Smart Thermostat",
+    "price": 249.99,
+    "brand": "HomeTemp",
+    "rating": 4.7,
+    "details": "Smart thermostat with Wi-Fi connectivity and energy-saving features."
+  },
+  {
+    "id": 17,
+    "name": "Fitness Tracker",
+    "price": 99.99,
+    "brand": "FitPulse",
+    "rating": 4.4,
+    "details": "Fitness tracker with heart rate monitor, sleep tracking, and step counter."
+  },
+  {
+    "id": 18,
+    "name": "Robot Vacuum",
+    "price": 299.99,
+    "brand": "CleanBot",
+    "rating": 4.6,
+    "details": "Robot vacuum cleaner with mapping technology and automatic dirt disposal."
+  },
+  {
+    "id": 19,
+    "name": "Electric Kettle",
+    "price": 49.99,
+    "brand": "BoilPro",
+    "rating": 4.3,
+    "details": "1.7L electric kettle with temperature control and keep-warm function."
+  },
+  {
+    "id": 20,
+    "name": "Air Purifier",
+    "price": 199.99,
+    "brand": "PureAir",
+    "rating": 4.7,
+    "details": "Air purifier with HEPA filter, quiet operation, and smart sensors."
+  }
+]
